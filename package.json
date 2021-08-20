@@ -1,0 +1,23 @@
+{
+    "name": "binbot",
+    "version": "1.0.0",
+    "description": "Binance Trading Bot",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jviljoen82/BinBot.git"
+    },
+    "author": "CJ Viljoen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jviljoen82/BinBot/issues"
+    },
+    "homepage": "https://github.com/jviljoen82/BinBot#readme",
+    "dependencies": {
+        "https": "^1.0.0"
+    }
+}
